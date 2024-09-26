@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\REPOS\\cs-for\\NJSZKI_cs-For\\for_fuggveny_neu\\for_fuggveny_neu\\for_fuggveny_neu.csproj": {}
+    "e:\\REPOS\\cs-for\\NJSZKI_cs-For\\for_fuggveny_neu\\for_fuggveny_neu\\for_fuggveny_neu.csproj": {}
   },
   "projects": {
-    "E:\\REPOS\\cs-for\\NJSZKI_cs-For\\for_fuggveny_neu\\for_fuggveny_neu\\for_fuggveny_neu.csproj": {
+    "e:\\REPOS\\cs-for\\NJSZKI_cs-For\\for_fuggveny_neu\\for_fuggveny_neu\\for_fuggveny_neu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\REPOS\\cs-for\\NJSZKI_cs-For\\for_fuggveny_neu\\for_fuggveny_neu\\for_fuggveny_neu.csproj",
+        "projectUniqueName": "e:\\REPOS\\cs-for\\NJSZKI_cs-For\\for_fuggveny_neu\\for_fuggveny_neu\\for_fuggveny_neu.csproj",
         "projectName": "for_fuggveny_neu",
-        "projectPath": "E:\\REPOS\\cs-for\\NJSZKI_cs-For\\for_fuggveny_neu\\for_fuggveny_neu\\for_fuggveny_neu.csproj",
+        "projectPath": "e:\\REPOS\\cs-for\\NJSZKI_cs-For\\for_fuggveny_neu\\for_fuggveny_neu\\for_fuggveny_neu.csproj",
         "packagesPath": "C:\\Users\\solti_aks20xi\\.nuget\\packages\\",
-        "outputPath": "E:\\REPOS\\cs-for\\NJSZKI_cs-For\\for_fuggveny_neu\\for_fuggveny_neu\\obj\\",
+        "outputPath": "e:\\REPOS\\cs-for\\NJSZKI_cs-For\\for_fuggveny_neu\\for_fuggveny_neu\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\solti_aks20xi\\AppData\\Roaming\\NuGet\\NuGet.Config",

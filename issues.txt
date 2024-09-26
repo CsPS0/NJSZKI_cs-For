@@ -1,0 +1,22 @@
+1. Feladat: N-t nem írja ki ">" miatt, mivel nincs megadva az N printnél
+2. Feladat: * jó
+3. Feladat: * jó
+4. Feladat: Nem tudtam értelmezni a feladatot :P; szóval lehet van hiba benne
+5. Feladat: * jó
+6. Feladat: Nem 1-től 10-ig, hanem 10 számot ír ki TODO: limitálni a számokat vagy: (1, 11)
+7. Feladat: * jó
+8. Feladat: * jó
+9. Feladat: * jó
+10. Feladat: * jó
+11. Feladat: elvileg * jó | Nem fogom egyesével megszámolni ;p
+12. Feladat: * jó
+13. Feladat: * jó
+14. Feladat: user experience-hez adjuk hozzá ezt: 1*2+2*3+3 *4+4*5+...+K*(K+1) azért, hogy értse mi a fészkes fenét számol a feladat
+15. Feladat: * jó
+16. Feladat: * jó
+17. Feladat: Piramis nem jön ki rendesen
+18. Feladat: gondolom * jó
+19. Feladat: nem tom
+20. Feladat: nem tom
+
+Egyéb feladat elválasztásnál legyen /n (sortörés előtte és utánna, illetve legyenek pirosak)

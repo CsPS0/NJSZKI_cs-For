@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("for_fuggveny_neu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f74bddb4df7346a5c025a95565e4b1248eddeb0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7ad4693e2fc16ee6ab1bcab1ac6fc3ba25b70cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("for_fuggveny_neu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("for_fuggveny_neu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
